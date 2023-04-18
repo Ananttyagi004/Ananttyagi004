@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananttyagi004" alt="ananttyagi004" /></a> </p>
 
-- 🔭 I’m currently working on [Brain Tumour Detection](https://github.com/Ananttyagi004/Brain_Tumour_Detection)
+- 🔭 I’m currently working on [Diabetic-Retinopathy-using-CNN-and-Transfer-Leaning](https://github.com/Ananttyagi004/Diabetic-Retinopathy-using-CNN-and-Transfer-Leaning)
 
 - 🌱 I’m currently learning **Django, SQL and Tableau**
 

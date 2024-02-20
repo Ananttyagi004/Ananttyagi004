@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anant</h1>
-<h3 align="center">A Machine Learning developer and Data Analyst from India</h3>
+<h3 align="center">Backend Django Developer || Python Django Developer <h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananttyagi004&label=Profile%20views&color=0e75b6&style=flat" alt="ananttyagi004" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on RESTFul API's.
 
-- 🌱 I’m currently learning **Django, SQL and Tableau**
+- 🌱 I’m currently learning **Django, DjangoRestFramework, WebSockets and Django Celery
 
 - 💬 Ask me about **I am a sophomore in B.Tech(CSE) at Ajay Kumar Garg Engineering College, Ghaziabad. I am a Machine Learning Enthusiast willing to get involved in software writings and cognitive model development. Looking at Machine Learning as a domain of CSE that can help in curing human disability using Artificial Intelligence.**
 
